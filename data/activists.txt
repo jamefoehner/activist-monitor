@@ -1,0 +1,27 @@
+# One case-insensitive substring per line, matched against the FILER's name (not the company).
+# The first eight are the activists in the research data. The rest are well-known activists;
+# edit freely. "carl c icahn" matches EDGAR's "ICAHN CARL C" via the 'icahn' line.
+elliott
+starboard value
+trian
+valueact
+pershing square
+third point llc
+third point management
+icahn
+jana partners
+engine capital
+legion partners
+sachem head
+land & buildings
+ancora
+politan
+irenic
+mantle ridge
+corvex
+blue harbour
+clearway capital
+barington
+macellum
+jcp investment
+carronade

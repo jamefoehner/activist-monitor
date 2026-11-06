@@ -1,0 +1,267 @@
+<SEC-DOCUMENT>0000902664-25-003788.txt : 20250820
+<SEC-HEADER>0000902664-25-003788.hdr.sgml : 20250820
+<ACCEPTANCE-DATETIME>20250820200015
+ACCESSION NUMBER:		0000902664-25-003788
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250820
+DATE AS OF CHANGE:		20250820
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUTHWEST AIRLINES CO
+		CENTRAL INDEX KEY:			0000092380
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		EIN:				741563240
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33255
+		FILM NUMBER:		251238177
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2702 LOVE FIELD DR
+		STREET 2:		P O BOX 36611
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75235
+		BUSINESS PHONE:		2147924000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 36611
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75235-1611
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AIR SOUTHWEST CO
+		DATE OF NAME CHANGE:	19760108
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Elliott Investment Management L.P.
+		CENTRAL INDEX KEY:			0001791786
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		360 S. ROSEMARY AVE, 18TH FLOOR
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+		BUSINESS PHONE:		212-974-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		360 S. ROSEMARY AVE, 18TH FLOOR
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000902664-24-004970</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Elliott Investment Management L.P. -->
+          <cik>0001791786</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>9</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $1.00 per share</securitiesClassTitle>
+      <dateOfEvent>08/18/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000092380</issuerCIK>
+        <issuerCUSIP>844741108</issuerCUSIP>
+        <issuerName>SOUTHWEST AIRLINES CO</issuerName>
+        <address>
+          <com:street1>2702 LOVE FIELD DR</com:street1>
+          <com:street2>P O BOX 36611</com:street2>
+          <com:city>DALLAS</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75235</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Legal Department</personName>
+          <personPhoneNum>212-974-6000</personPhoneNum>
+          <personAddress>
+            <com:street1>Elliott Investment Management L.P.</com:street1>
+            <com:street2>360 S. Rosemary Ave, 18th Floor</com:street2>
+            <com:city>West Palm Beach</com:city>
+            <com:stateOrCountry>FL</com:stateOrCountry>
+            <com:zipCode>33401</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Ele Klein &amp; Adriana Schwartz</personName>
+          <personPhoneNum>212-756-2000</personPhoneNum>
+          <personAddress>
+            <com:street1>McDermott Will &amp; Schulte LLP</com:street1>
+            <com:street2>919 Third Avenue</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10022</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001791786</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Elliott Investment Management L.P.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>51128500.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>51128500.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>51128500.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.7</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $1.00 per share</securityTitle>
+        <issuerName>SOUTHWEST AIRLINES CO</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>2702 LOVE FIELD DR</com:street1>
+          <com:street2>P O BOX 36611</com:street2>
+          <com:city>DALLAS</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75235</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>The following constitutes Amendment No. 9 ("Amendment No. 9") to the Schedule 13D filed with the Securities and Exchange Commission on August 5, 2024 (as amended, the "Schedule 13D"). This Amendment No. 9 amends and restates Items 3, 5(a)-(c) and 6 and supplements Item 4 as set forth below. Capitalized terms used herein and not otherwise defined in this Amendment No. 9 have the meanings set forth in the Schedule 13D.</commentText>
+      </item1>
+      <item3>
+        <fundsSource>The aggregate cost of the shares of Common Stock directly held by the Elliott Funds is approximately $1,343,906,499.
+
+The Reporting Person may effect purchases of the shares of Common Stock through margin accounts maintained for the Elliott Funds with prime brokers, which extend margin credit as and when required to open or carry positions in their margin accounts, subject to applicable federal margin regulations, stock exchange rules and such firms' credit policies. Positions in the shares of Common Stock may be held in margin accounts and may be pledged as collateral security for the repayment of debit balances in such accounts. Since other securities may be held in such margin accounts, it may not be possible to determine the amounts, if any, of margin used to purchase the shares of Common Stock.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Person increased the Elliott Funds' exposure to the Issuer as a result of its belief that the Issuer's strategic initiatives can position the Issuer to create long-term shareholder value.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>See rows (11) and (13) of the cover page to this Schedule 13D for the aggregate number of shares of Common Stock and percentage of shares of Common Stock beneficially owned by the Reporting Person. The aggregate percentage of shares of Common Stock reported beneficially owned by the Reporting Person is based upon 525,187,709 shares of Common Stock outstanding as of July 23, 2025, as disclosed in the Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2025, filed by the Issuer with the Securities and Exchange Commission on July 24, 2025.</percentageOfClassSecurities>
+        <numberOfShares>See rows (7) through (10) of the cover page to this Schedule 13D for the shares of Common Stock as to which the Reporting Person has the sole or shared power to vote or direct the vote and sole or shared power to dispose or to direct the disposition.</numberOfShares>
+        <transactionDesc>The transactions in the shares of Common Stock effected by the Reporting Person during the past sixty (60) days, which were all in the open market, are set forth on Schedule 1 attached hereto and incorporated by reference herein.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Item 4 of the Schedule 13D is incorporated herein by reference.
+
+The Elliott Funds have entered into notional principal amount derivative agreements (the "Cash Derivative Agreements") in the form of cash settled swaps with respect to an aggregate of 26,543,000 shares of Common Stock of the Issuer (collectively representing economic exposure comparable to 5.1% of the shares of Common Stock of the Issuer). The Cash Derivative Agreements provide the Elliott Funds with economic results that are comparable to the economic results of ownership but do not provide them or EIM with the power to vote or direct the voting or dispose of or direct the disposition of the shares that are referenced in the Cash Derivative Agreements (such shares, the "Subject Shares"). EIM disclaims beneficial ownership in the Subject Shares. The counterparties to the Cash Derivative Agreements are unaffiliated third-party financial institutions.
+
+EIM has combined economic exposure in the Issuer of approximately 14.8% of the shares of Common Stock outstanding.
+
+Except as set forth herein, there are no contracts, arrangements, understandings or relationships (legal or otherwise) among the persons named in Item 2 hereof and between such persons and any person with respect to any securities of the Issuer, including any class of the Issuer's securities used as a reference security, in connection with any of the following: call options, put options, security-based swaps or any other derivative securities, transfer or voting of any of the securities, finder's fees, joint ventures, loan or option arrangements, guarantees of profits, division of profits or loss, or the giving or withholding of proxies.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Elliott Investment Management L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Elliot Greenberg</signature>
+          <title>Elliot Greenberg, Vice President</title>
+          <date>08/20/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>p25-1889schedule1.htm
+<DESCRIPTION>SCHEDULE 1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><B><U>SCHEDULE 1</U></B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><B>Transactions in the Shares of Common Stock
+of the Issuer by the Reporting Person During the Past Sixty (60) Days</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">The following table sets
+forth all transactions in the shares of Common Stock reported herein effected during the past sixty (60) days by the Reporting Person.
+Except as noted below, all such transactions were effected by the Reporting Person in the open market through brokers and the price per
+share excludes commissions. Where a price range is provided in the column titled &ldquo;Price Range ($)&rdquo;, the price reported in
+the column titled &ldquo;Price Per Share ($)&rdquo; is a weighted average price. These shares of Common Stock were sold or purchased in
+multiple transactions at prices between the price ranges indicated in the column titled &ldquo;Price Range ($)&rdquo;. The Reporting Person
+will undertake to provide to the staff of the SEC, upon request, full information regarding the shares of Common Stock sold or purchased
+at each separate price.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt"><B>Trade Date</B></FONT></TD>
+    <TD STYLE="width: 28%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt"><B>Shares Purchased (Sold)</B></FONT></TD>
+    <TD STYLE="width: 24%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt"><B>Price Per Share ($)</B></FONT></TD>
+    <TD STYLE="width: 24%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt"><B>Price Range ($)</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">06/27/2025</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">1,650,000</FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">32.19</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><P STYLE="margin: 0; font: 11pt Times New Roman, Times, Serif">31.53 - 32.41</P><FONT STYLE="font-size: 11pt"></FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">06/30/2025</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">1,200,000</FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">32.25</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><P STYLE="margin: 0; font: 11pt Times New Roman, Times, Serif">32.03 - 32.48</P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">07/01/2025</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">(2,850,000)</FONT></TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 11pt">33.33</FONT></TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><P STYLE="margin: 0; font: 11pt Times New Roman, Times, Serif">32.65 - 33.56</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

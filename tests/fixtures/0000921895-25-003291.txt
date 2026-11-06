@@ -1,0 +1,968 @@
+<SEC-DOCUMENT>0000921895-25-003291.txt : 20251205
+<SEC-HEADER>0000921895-25-003291.hdr.sgml : 20251205
+<ACCEPTANCE-DATETIME>20251205202108
+ACCESSION NUMBER:		0000921895-25-003291
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20251205
+DATE AS OF CHANGE:		20251205
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alight, Inc. / Delaware
+		CENTRAL INDEX KEY:			0001809104
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				850545098
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91522
+		FILM NUMBER:		251554353
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4 OVERLOOK POINT
+		CITY:			LINCOLNSHIRE
+		STATE:			IL
+		ZIP:			60069
+		BUSINESS PHONE:		(702) 323-7330
+
+	MAIL ADDRESS:	
+		STREET 1:		4 OVERLOOK POINT
+		CITY:			LINCOLNSHIRE
+		STATE:			IL
+		ZIP:			60069
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Alight Group, Inc.
+		DATE OF NAME CHANGE:	20210707
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Foley Trasimene Acquisition Corp.
+		DATE OF NAME CHANGE:	20200410
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Starboard Value LP
+		CENTRAL INDEX KEY:			0001517137
+		ORGANIZATION NAME:           	CF
+		EIN:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		777 THIRD AVENUE, 18TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		(212) 845-7977
+
+	MAIL ADDRESS:	
+		STREET 1:		777 THIRD AVENUE, 18TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000921895-24-000526</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Starboard Value LP -->
+          <cik>0001517137</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <dateOfEvent>12/03/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001809104</issuerCIK>
+        <issuerCUSIP>01626W101</issuerCUSIP>
+        <issuerName>Alight, Inc. / Delaware</issuerName>
+        <address>
+          <com:street1>4 OVERLOOK POINT</com:street1>
+          <com:city>LINCOLNSHIRE</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60069</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>JEFFREY C. SMITH</personName>
+          <personPhoneNum>212-845-7977</personPhoneNum>
+          <personAddress>
+            <com:street1>STARBOARD VALUE LP</com:street1>
+            <com:street2>777 Third Avenue, 18th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10017</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>ANDREW FREEDMAN, ESQ.</personName>
+          <personPhoneNum>212-451-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>OLSHAN FROME WOLOSKY LLP</com:street1>
+            <com:street2>1325 Avenue of the Americas</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>MEAGAN REDA, ESQ.</personName>
+          <personPhoneNum>212-451-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>OLSHAN FROME WOLOSKY LLP</com:street1>
+            <com:street2>1325 Avenue of the Americas</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001517137</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Value LP</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001373638</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>STARBOARD VALUE &amp; OPPORTUNITY MASTER FUND LTD</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001519812</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>STARBOARD VALUE &amp; OPPORTUNITY S LLC</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001571704</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Value &amp; Opportunity C LP</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001575972</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Value R LP</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001767736</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Value &amp; Opportunity Master Fund L LP</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001767773</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Value L LP</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001575979</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Value R GP LLC</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001833016</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard X Master Fund Ltd</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001517138</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Value GP LLC</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001517139</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Principal Co LP</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001517140</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Starboard Principal Co GP LLC</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001362697</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Smith Jeffrey C</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001410600</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Feld Peter A</reportingPersonName>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock, par value $0.0001 per share</securityTitle>
+        <issuerName>Alight, Inc. / Delaware</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>4 OVERLOOK POINT</com:street1>
+          <com:city>LINCOLNSHIRE</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60069</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 is hereby amended and restated to read as follows:
+
+The Reporting Persons no longer beneficially own any securities of the Issuer.</fundsSource>
+      </item3>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) is hereby amended and restated as follows:
+
+The Reporting Persons no longer beneficially own any securities of the Issuer.</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) is hereby amended and restated as follows:
+
+The Reporting Persons no longer beneficially own any securities of the Issuer.</numberOfShares>
+        <transactionDesc>Item 5(c) is hereby amended and restated as follows:
+
+Information concerning transactions in the securities of the Issuer effected by the Reporting Persons during the past sixty days is set forth in Exhibit 1 attached hereto and is incorporated herein by reference. Except as otherwise noted, all of the transactions in the securities of the Issuer listed hereto were effected in the open market through various brokerage entities.</transactionDesc>
+        <date5PercentOwnership>Item 5(e) is hereby amended and restated to read as follows:
+
+As of December 3, 2025, the Reporting Persons ceased to beneficially own more than 5% of the outstanding Shares of the Issuer.</date5PercentOwnership>
+      </item5>
+      <item7>
+        <filedExhibits>1 - Transactions in Securities</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Value LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Value GP LLC, its general partner</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>STARBOARD VALUE &amp; OPPORTUNITY MASTER FUND LTD</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Value LP, its investment manager</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>STARBOARD VALUE &amp; OPPORTUNITY S LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Value LP, its manager</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Value &amp; Opportunity C LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Value R LP, its general partner</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Value R LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Value R GP LLC, its general partner</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Value &amp; Opportunity Master Fund L LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Value L LP, its general partner</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Value L LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Value R GP LLC, its general partner</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Value R GP LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard X Master Fund Ltd</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Value LP, its investment manager</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Value GP LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Principal Co LP, its member</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Principal Co LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory of Starboard Principal Co GP LLC, its general partner</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Starboard Principal Co GP LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Authorized Signatory</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Smith Jeffrey C</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Feld Peter A</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey C. Smith</signature>
+          <title>Jeffrey C. Smith, Attorney-in-Fact for Peter A. Feld</title>
+          <date>12/05/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1to13da406297352_120525.htm
+<DESCRIPTION>TRANSACTIONS IN SECURITIES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><B><U>Transactions in the Securities of the
+Issuer During the Past Sixty Days</U></B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font-size: 10pt; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt"><U>Nature of the Transaction</U></FONT></TD>
+    <TD STYLE="vertical-align: top; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Amount of Securities</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>Purchased</U></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><U>Price ($)</U></TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Date of</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>Purchase</U></P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>STARBOARD VALUE AND OPPORTUNITY MASTER
+FUND LTD</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(51,385)</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3700</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(535,592)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3600</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(159,208)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3270</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/28/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(586,978)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3720</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(115,576)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.4220</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(2,201,166)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3840</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(385,055)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.2490</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/02/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(17,375,915)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0500</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(879,086)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0500</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(633,623)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.1550</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/04/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(129,448)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.1550</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/04/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(425,093)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0450</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(670,196)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0360</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(134,651)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0360</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(87,492)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0830</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(2,115,811)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0450</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(435,476)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0830</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Short Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(500)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0300</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>STARBOARD VALUE AND OPPORTUNITY S LLC</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(6,584)</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3700</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(68,620)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3600</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(20,398)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3270</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/28/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(75,204)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3720</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(14,808)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.4220</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(282,014)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3840</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(49,334)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.2490</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/02/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(2,338,839)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0500</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(97,765)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.1550</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/04/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(325,584)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0450</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(103,131)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0360</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(67,011)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0830</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U></U></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>STARBOARD VALUE AND OPPORTUNITY MASTER
+FUND L LP</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(2,834)</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3700</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(29,543)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3600</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(8,782)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3270</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/28/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(32,377)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3720</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(6,375)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.4220</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(121,413)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3840</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(21,239)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.2490</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/02/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(888,383)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0500</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(118,535)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0500</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(32,355)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.1550</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/04/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(9,735)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.1550</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/04/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(31,968)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0450</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(10,126)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0360</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(6,580)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0830</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(34,274)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0360</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(108,202)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0450</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(22,270)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0830</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>STARBOARD X MASTER FUND LTD</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(16,769)</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3700</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(174,781)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3600</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(51,954)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3270</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/28/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(191,549)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3720</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(37,716)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.4220</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(718,310)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3840</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(125,656)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.2490</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/02/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(5,162,788)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0500</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(794,401)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0500</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(187,977)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.1550</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/04/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(61,037)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.1550</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/04/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(200,440)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0450</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(199,190)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0360</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(63,491)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0360</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(129,430)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0830</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(41,255)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0830</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(628,845)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0450</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>STARBOARD VALUE LP<BR>
+(Through the Starboard Value LP Account)</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(9,970)</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3700</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(103,922)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3600</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(30,891)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3270</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/28/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(113,892)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3720</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(22,425)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.4220</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(427,097)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.3840</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/01/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(74,713)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.2490</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/02/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(3,542,053)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0500</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(148,060)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.1550</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/04/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(493,081)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0450</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(156,186)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0360</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(101,486)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2.0830</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

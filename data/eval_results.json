@@ -1,0 +1,91 @@
+{
+ "model": "claude-sonnet-5-5",
+ "date": "2026-11-06",
+ "n": 89,
+ "prompt_sha": "474919b506",
+ "macro_f1": 0.8370025285396562,
+ "macro_f1_ci": [
+  0.730588483403631,
+  0.8914530910928077
+ ],
+ "exact_match": 0.7640449438202247,
+ "exact_match_ci": [
+  0.6741573033707865,
+  0.8539325842696629
+ ],
+ "parse_rate": 1.0,
+ "not_a_demand_rate": 0.011235955056179775,
+ "fields": {
+  "board_seats": {
+   "support": 23,
+   "precision": 0.84,
+   "recall": 0.9130434782608695,
+   "f1": 0.8749999999999999
+  },
+  "sale_or_review": {
+   "support": 19,
+   "precision": 0.7916666666666666,
+   "recall": 1.0,
+   "f1": 0.8837209302325582
+  },
+  "breakup_spin": {
+   "support": 8,
+   "precision": 0.8571428571428571,
+   "recall": 0.75,
+   "f1": 0.7999999999999999
+  },
+  "capital_return": {
+   "support": 5,
+   "precision": 0.8333333333333334,
+   "recall": 1.0,
+   "f1": 0.9090909090909091
+  },
+  "operations_costs": {
+   "support": 17,
+   "precision": 0.8095238095238095,
+   "recall": 1.0,
+   "f1": 0.8947368421052632
+  },
+  "management_change": {
+   "support": 3,
+   "precision": 0.75,
+   "recall": 1.0,
+   "f1": 0.8571428571428571
+  },
+  "governance": {
+   "support": 10,
+   "precision": 0.5555555555555556,
+   "recall": 0.5,
+   "f1": 0.5263157894736842
+  },
+  "oppose_deal": {
+   "support": 5,
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1": 1.0
+  },
+  "capital_discipline": {
+   "support": 9,
+   "precision": 0.5384615384615384,
+   "recall": 0.7777777777777778,
+   "f1": 0.6363636363636364
+  },
+  "engagement_only": {
+   "support": 40,
+   "precision": 0.975609756097561,
+   "recall": 1.0,
+   "f1": 0.9876543209876543
+  }
+ },
+ "baselines": {
+  "always_none": {
+   "macro_f1": 0.0,
+   "exact_match": 0.011235955056179775
+  },
+  "always_engagement_only": {
+   "macro_f1": 0.06201550387596899,
+   "exact_match": 0.449438202247191
+  }
+ },
+ "gold_note": "89 hand-labeled original 13Ds from eight activists, 2010-2026"
+}
