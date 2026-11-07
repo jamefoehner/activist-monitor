@@ -44,9 +44,10 @@ html, body, [class*="css"], .stMarkdown, button, input { font-family: 'IBM Plex 
 .stat span { font-size: .8rem; color: #5d6470; }
 @media (max-width: 40rem) { .hero h1 { font-size: 1.7rem; } .hero p { font-size: .95rem; } .stats { display: grid; grid-template-columns: 1fr 1fr; gap: .25rem 1rem; } .stat b { font-size: .95rem; white-space: nowrap; } }
 
-.card { border: 1px solid #e3e6ea; border-radius: 12px; padding: 1rem 1.2rem .9rem; margin: 0 0 .85rem; background: #fff;
+.card { --accent: #cfd6e6; border: 1px solid #e3e6ea; border-left: 5px solid var(--accent); border-radius: 12px; padding: 1rem 1.2rem .9rem; margin: 0 0 .85rem; background: #fff;
         transition: box-shadow .15s, border-color .15s; }
-.card:hover { box-shadow: 0 4px 18px rgba(20,23,28,.07); border-color: #cfd6e6; }
+.card:hover { box-shadow: 0 4px 18px rgba(20,23,28,.07); border-color: #cfd6e6; border-left-color: var(--accent); }
+.hidden-note { font-size: .84rem; color: #5d6470; margin: .2rem 0 .8rem; }
 .card .top { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: .3rem 1rem; }
 .card .who { font-weight: 600; font-size: .86rem; color: #2f5bd3; }
 .card .form { font-family: 'IBM Plex Mono', monospace; font-size: .72rem; color: #5d6470; background: #eef0f3;
@@ -92,6 +93,10 @@ div[data-testid="stSegmentedControl"] { margin: .2rem 0 .1rem; }
 div[data-testid="stVerticalBlock"] { gap: .6rem; }
 </style>
 """, unsafe_allow_html=True)
+
+
+st.markdown("<style>" + "".join(f".card.a-{k} {{ --accent: {v}; }}" for k, v in COLORS.items()) + "</style>",
+            unsafe_allow_html=True)
 
 
 # ---------------------------------------------------------------- data
@@ -204,8 +209,10 @@ def filing_card(r):
     details = (f'<details><summary>Read Item 4, the filer\'s stated purpose</summary>'
                f'<div class="item4">{item4_html(item4)}</div></details>') if item4 else ""
     form = str(r["form"]).replace("SCHEDULE ", "").replace("SC ", "")
+    act = active_labels(r["labels"]) if r["label_status"] == "ok" else []
+    accent = next((a for a in act if a != "engagement_only"), act[0] if act else "none")
     st.markdown(
-        '<div class="card">'
+        f'<div class="card a-{accent}">'
         f'<div class="top"><div><span class="who">{esc(who)}</span><span class="form">{esc(form)}</span></div>'
         f'<span class="date">{esc(fmt_date(r["filed"]))}</span></div>'
         f'<div class="name">{esc(pretty(subject))}</div>{body}{details}'
@@ -252,13 +259,15 @@ if section == SECTIONS[0]:
     if f_all.empty:
         st.info("No filings loaded yet. Run `python -m monitor.pipeline` to fetch some.")
     else:
-        c1, c2, c3 = st.columns([2, 2, 1.6])
+        c1, c2, c3, c4 = st.columns([2, 2, 1.25, 1.75])
         who = sorted({a for a in f_all["activist"].dropna().unique()})
         names = {ACTIVIST_NAMES.get(w, w.title()): w for w in who}
         pick_who = c1.multiselect("Activist", list(names), placeholder="All activists", label_visibility="collapsed")
         pick_lab = c2.multiselect("Demand", list(NICE.values()), placeholder="Any demand", label_visibility="collapsed")
-        everyone = c3.toggle("Include other filers", value=False,
+        everyone = c3.toggle("Other filers", value=False,
                              help="Trusts, SPAC sponsors and holders that are not on the activist list")
+        show_empty = c4.toggle("Show empty amendments", value=False,
+                               help="Amendments that do not amend Item 4, and purely administrative filings")
         view = f_all if everyone else f_all[f_all["activist"].notna()]
         if pick_who:
             view = view[view["activist"].isin([names[p] for p in pick_who])]
@@ -266,7 +275,14 @@ if section == SECTIONS[0]:
             inv = {v: k for k, v in NICE.items()}
             want = [inv[p] for p in pick_lab]
             view = view[view["labels"].map(lambda l: isinstance(l, dict) and any(l.get(w) for w in want))]
-        st.caption(f"Showing {min(len(view), 50)} of {len(view)} filings, newest first")
+        empty = (view["label_status"] == "no_item4") | view["labels"].map(lambda l: isinstance(l, dict) and bool(l.get("not_a_demand")))
+        hidden = 0
+        if not show_empty:
+            hidden = int(empty.sum())
+            view = view[~empty]
+        extra = (f" · {hidden} amendment{'s' if hidden != 1 else ''} that did not change Item 4 hidden"
+                 if hidden else "")
+        st.caption(f"Showing {min(len(view), 50)} of {len(view)} filings, newest first{extra}")
         if view.empty:
             st.info("Nothing matches those filters.")
         for _, r in view.head(50).iterrows():
